@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Idowu Damola Olatunji
+# I'm Idowu Damola Olatunji.
 An highly organized and hard-working individual, a computer science graduate with a passion for developing scalable web applications and working across an entire full stack. I have skills in core and advanced web technologies, backed up with three years of working experience as a full-stack developer.
