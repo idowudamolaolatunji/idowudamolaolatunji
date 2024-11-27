@@ -1,4 +1,4 @@
-### Hi there 👋🏿👋🏿
+### <Hello World /> 👋🏿👋🏿
 
 <!--
 **idowudamolaolatunji/idowudamolaolatunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## I'm Idowu Damola Olatunji.
-An highly organized and hard-working individual, a computer science graduate with a passion for developing scalable web applications and working across an entire full stack. I have skills in core and advanced web technologies, backed up with three years of working experience as a full-stack developer.
+I build mordern and unique user interfaces with scalable and complex backend applications.
